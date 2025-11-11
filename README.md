@@ -9,7 +9,7 @@ I try to write clean and easy-to-understand code, along with comments explaining
 ---
 
 ## 📘 About This Repo
-- Problems are divided into folders based on topic or difficulty (like arrays, strings, linked list, etc.)
+- Problems are divided into folders based on topic or difficulty (like arrays, strings, etc.)
 - Each file has:
   - Problem name and LeetCode link  
   - My code solution  
